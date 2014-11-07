@@ -13,9 +13,9 @@ Designate one person as person A, and the other as person B.
 Have person A fork this repo on Github, go to Settings -> Collaborators, and add
 person B to the repo.
 
-Person A:
+Person A:Shaurya Kalsi
 
-Person B:
+Person B:Vy Ly
 
 Now both partners should run
 
